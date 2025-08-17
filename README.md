@@ -25,4 +25,13 @@ Pandas, NumPy, Scikit-learn (Data Handling & Preprocessing)
 
 # Dataset
 
-The dataset used is Netflix Content 2023 from Kaggle, containing metadata about movies and TV shows available on Kaggle
+The dataset used is Netflix Content 2023 from Kaggle, containing metadata about movies and TV shows available on Kaggle.
+
+# Future Improvements
+
+Add collaborative filtering with user ratings.
+
+Deploy the app on Streamlit Cloud / Heroku.
+
+Improve recommendation quality with hybrid models.
+
